@@ -1,2 +1,2 @@
 # galeshapley
-Gale-Shapley algorithm implementation.
+Implementação do Algoritmo de Gale-Shapley onde o Aluno é alocado ao Projeto no caso do Aluno ter o Projeto em suas preferências e possuir nota maior que a nota mínima requerida pelo Projeto. No caso de algum Aluno que ainda não pertence a um projeto e com uma nota maior que um Aluno já alocado naquele Projeto também querer realizar aquele Projeto, o Aluno já alocado é removido e devolvido à lista e o Aluno de nota maior é alocado ao Projeto em seu lugar. 
